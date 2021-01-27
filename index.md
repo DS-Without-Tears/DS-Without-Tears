@@ -1,6 +1,6 @@
 # Welcome, colleagues!
 
-<img align="right" src="shampoobottle.png" width=175px>
+<img align="right" src="shampoobottle.png" width=225px>
 
 The new year brings new opportunities for learning and professional development.
  
