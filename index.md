@@ -24,6 +24,22 @@ The first session will run for six weeks and begins **February 22nd**.
 To register, sign up via the following form: [Registration not yet open]
 
 
+# Pre-Requisites
+
+- Knowledge: Basic statistics (e.g. mean, sd, t-tests)
+- Software: A web browser (Chrome, Firefox, Edge, etc.)
+- A UWO account for OWL access
+- A Google account (e.g. Gmail) for Google Colab
+    - We do not need to know this account name, you just need it to run code on the web
+- A GitHub account (we will help you set this up)
+    - Most content will only be available through GitHub
+
+**Not** required:
+
+- Any particular programs/editors
+    - Installing Python is *NOT* required, all work can be done in Google Colab.
+- A Google account that is associated with any of your personal information
+
 # Navigation Information
 
 This is the public-facing website for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content on [ the GitHub page](https://github.com/DS-Without-Tears).
