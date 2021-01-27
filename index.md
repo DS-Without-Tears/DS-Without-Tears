@@ -30,18 +30,21 @@ To register, sign up via the following form: [Registration not yet open]
 - Software: A web browser (Chrome, Firefox, Edge, etc.)
 - A UWO account for OWL access
 - A Google account (e.g. Gmail) for Google Colab
-    - We do not need to know this account name, you just need it to run code on the web
 - A GitHub account (we will help you set this up)
     - Most content will only be available through GitHub
 
 **Not** required:
 
-- Any particular programs/editors
+- Previous experience with programming languages
+- Any particular software (other than the web browser that you're using to view this page)
     - Installing Python is *NOT* required, all work can be done in Google Colab.
 - A Google account that is associated with any of your personal information
+    - You need a Google account to run code on Colab, but that's it. Feel free to make a dummy account with no personal info and a simple, easy-to-remember password.
 
 # Navigation Information
 
-This is the public-facing website for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content on [ the GitHub page](https://github.com/DS-Without-Tears).
+This is the public-facing website for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content on [the GitHub page](https://github.com/DS-Without-Tears).
 
 For the activities and assessments, we may ask you to submit work by uploading them to a GitHub repository. You'll need to create this repository as a part of the [DS-Without-Tears](https://github.com/DS-Without-Tears) organization. Please see the file CreatingGitHubRepos.md in [this repository](https://github.com/DS-Without-Tears/2021-Winter-Content) for a description of this process (only successfully registerd participants will be able to open that link).
+
+OWL will be our main venue for disseminating information. We've set up TODO lists, assessment instructions, and bonus videos to explain some of the more difficult concepts. Once registered, you'll be added to the OWL site.
