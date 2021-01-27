@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Data Science Without Tears
 
-You can use the [editor on GitHub](https://github.com/DS-Without-Tears/DS-Without-Tears/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img align="right" src="shampoobottle.png" width=225px>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The new year brings new opportunities for learning and professional development.
+ 
+Western is offering a six-week bootcamp for faculty members called “Data Science Without Tears” - part of ongoing efforts to help build data acumen across campus.
+ 
+The course takes only eight hours per week over six weeks and will cover the basics of data science. The course includes practical, hands-on exercises in Python notebooks, which are essential tools for data science work that can be accessed through your browser with no setup needed!
+ 
+The course is designed to be accessible and not intimidating for those new to data science. No tears here!
+ 
+The bootcamp will help you:
+ 
+- Understand how to scale your research using simple data science tools and techniques
+- Automate your data collection and processing in a re-producible workflow
+- Summarize and visualize your research
+- Understand common machine learning models and how they may apply to your own research
+ 
+Are you ready to take your research to the next level with a better understanding of data science?
 
-### Markdown
+The first session will run for six weeks and begins **February 22nd**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To register, sign up via the following form: [Registration not yet open]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Navigation Information
 
-- Bulleted
-- List
+This is the public-facing repository for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content here on GitHub.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DS-Without-Tears/DS-Without-Tears/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For the activities and assessments, we may ask you to submit work by uploading them to a GitHub repository. You'll need to create this repository as a part of the DS-Without-Tears organization. Please see the file CreatingGitHubRepos.md for a description of this process.
