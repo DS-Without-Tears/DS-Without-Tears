@@ -1,6 +1,6 @@
-# Data Science Without Tears
+# Welcome, colleagues!
 
-<img align="right" src="shampoobottle.png" width=225px>
+<img align="right" src="shampoobottle.png" width=175px>
 
 The new year brings new opportunities for learning and professional development.
  
@@ -26,6 +26,6 @@ To register, sign up via the following form: [Registration not yet open]
 
 # Navigation Information
 
-This is the public-facing repository for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content here on GitHub.
+This is the public-facing website for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content on [ the GitHub page](https://github.com/DS-Without-Tears).
 
-For the activities and assessments, we may ask you to submit work by uploading them to a GitHub repository. You'll need to create this repository as a part of the DS-Without-Tears organization. Please see the file CreatingGitHubRepos.md for a description of this process.
+For the activities and assessments, we may ask you to submit work by uploading them to a GitHub repository. You'll need to create this repository as a part of the [DS-Without-Tears](https://github.com/DS-Without-Tears) organization. Please see the file CreatingGitHubRepos.md in [this repository](https://github.com/DS-Without-Tears/2021-Winter-Content) for a description of this process (only successfully registerd participants will be able to open that link).
