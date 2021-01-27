@@ -33,11 +33,11 @@ To register, sign up via the following form: [Registration not yet open]
 - A GitHub account (we will help you set this up)
     - Most content will only be available through GitHub
 
-**Not** required:
+**Not required:**
 
 - Previous experience with programming languages
 - Any particular software (other than the web browser that you're using to view this page)
-    - Installing Python is *NOT* required, all work can be done in Google Colab.
+    - Installing Python is NOT required, all work can be done in Google Colab.
 - A Google account that is associated with any of your personal information
     - You need a Google account to run code on Colab, but that's it. Feel free to make a dummy account with no personal info and a simple, easy-to-remember password.
 
