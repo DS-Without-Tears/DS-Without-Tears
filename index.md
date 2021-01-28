@@ -21,8 +21,9 @@ Are you ready to take your research to the next level with a better understandin
 
 The first session will run for six weeks and begins **February 22nd**.
 
-To register, sign up via the following form: [Registration not yet open]
+To register, sign up via the following form: https://tinyurl.com/datasciencewithouttears
 
+Requests for further information should be sent to [datasciencewithouttears@gmail.com](mailto:datasciencewithouttears@gmail.com).
 
 # Pre-Requisites
 
