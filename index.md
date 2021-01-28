@@ -36,11 +36,11 @@ Requests for further information should be sent to: [datasciencewithouttears@gma
 
 **Not required:**
 
-- Previous experience with programming languages
+- Previous experience with programming languages or any particular software
+- Previous experience with GitHub
+- A Google account that is associated with any of your personal information
 - Any particular software (other than the web browser that you're using to view this page)
     - Installing Python is NOT required, all work can be done in Google Colab.
-- A Google account that is associated with any of your personal information
-    - You need a Google account to run code on Colab, but that's it. Feel free to make a dummy account with no personal info and a simple, easy-to-remember password.
 
 
 
