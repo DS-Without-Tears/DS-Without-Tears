@@ -34,6 +34,10 @@ Participants will:
 - recognize social and ethical implications of data science, including privacy concerns and potential biases, in a broad variety of contexts.
 work together with a broad community of interdisciplinary scholars to discuss data science.
 
+## Evaluation
+
+Upon successful completion of this boot camp, participants will be awarded a certificate. To earn this certificate, participants must complete a series of activities and challenges related to Data Science. There will be a range of activities covering data cleaning, modelling, visualization, ethics, etc., and participants will be free to choose the activities that are relevant to them. 
+
 ## Session Schedule
 
 1. **Introduction to Data Science and a Gentle Start to Python**
