@@ -21,7 +21,7 @@ Are you ready to take your research to the next level with a better understandin
 
 The inaugural session will run for six weeks and begins **February 22nd**, 2021.
 
-To register, sign up via the following form: [https://tinyurl.com/datasciencewithouttears](https://tinyurl.com/datasciencewithouttears)
+To register, sign up via the following form: [Register Here](https://docs.google.com/forms/d/1FS982pqn9xvH7_z-nkmw7T2ASRiN7Yszvf1ZfIfTNbs/)
 
 Requests for further information should be sent to: [datasciencewithouttears@gmail.com](mailto:datasciencewithouttears@gmail.com).
 
