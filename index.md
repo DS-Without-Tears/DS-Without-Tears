@@ -19,7 +19,7 @@ The bootcamp will help you:
  
 Are you ready to take your research to the next level with a better understanding of data science?
 
-The inaugural session will run for six weeks and begins **February 22nd**, 2021.
+The second session will run for six weeks and begins **July 12th**, 2021. There will be one synchronous component: "Coffee House Hours" on Thursdays from 2:30 to 3:30, where you can use that time as dedicated study time or ask the developers questions.
 
 To register, sign up via the following form: [Register Here](https://docs.google.com/forms/d/1FS982pqn9xvH7_z-nkmw7T2ASRiN7Yszvf1ZfIfTNbs/)
 
