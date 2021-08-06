@@ -4,30 +4,33 @@
 
 The new year brings new opportunities for learning and professional development.
  
-Western is offering a six-week bootcamp for faculty members called “Data Science Without Tears” - part of ongoing efforts to help build data acumen across campus.
+As part of ongoing efforts to help build data acumen across campus, Western is offering a six-week bootcamp for faculty members and postdocs called “Data Science Without Tears”.
  
-The course takes only eight hours per week over six weeks and will cover the basics of data science. The course includes practical, hands-on exercises in Python notebooks, which are essential tools for data science work that can be accessed through your browser with no setup needed!
+The course takes only eight hours per week over six weeks and will cover the basics of data science. The course includes practical, hands-on exercises in Python notebooks, which are essential tools for data science work that can be accessed through your browser with no installation needed!
  
-The course is designed to be accessible and not intimidating for those new to data science. No tears here!
+The course is designed to be accessible and welcoming for those new to data science. No tears here!
  
 The bootcamp will help you:
  
-- Understand how to scale your research using simple data science tools and techniques
+- Understand how to scale your research using simple data science tools and techniques in Python
 - Automate your data collection and processing in a re-producible workflow
 - Summarize and visualize your research
 - Understand common machine learning models and how they may apply to your own research
+- Learn what resources exist to further your knowledge
  
 Are you ready to take your research to the next level with a better understanding of data science?
 
-The second session will run for six weeks and begins **July 12th**, 2021. There will be one synchronous component: "Coffee House Hours" on Thursdays from 2:30 to 3:30, where you can use that time as dedicated study time or ask the developers questions.
+# Registration
 
-To register, sign up via the following form: [Register Here](https://docs.google.com/forms/d/1FS982pqn9xvH7_z-nkmw7T2ASRiN7Yszvf1ZfIfTNbs/)
+The third session will run for six weeks and begins **September 20th**, 2021. There will be one synchronous component: "Coffee House Hours" on Thursdays from 2:30 to 3:30, where you can use that time as dedicated study time or ask the developers questions.
+
+To register, sign up via the following form: [Register Here](https://forms.gle/gEE6L6XLtiQiBdKV9/)
 
 Requests for further information should be sent to: [datasciencewithouttears@gmail.com](mailto:datasciencewithouttears@gmail.com).
 
 # Pre-Requisites
 
-- Knowledge: Basic statistics (e.g. mean, sd, t-tests)
+- Knowledge: Basic statistics (e.g. mean, sd, some knowledge of t-tests)
 - Software: A web browser (Chrome, Firefox, Edge, etc.)
 - A UWO account for OWL access
 - A Google account (e.g. Gmail) for Google Colab
@@ -43,15 +46,15 @@ Requests for further information should be sent to: [datasciencewithouttears@gma
     - Installing Python is NOT required, all work can be done in Google Colab.
 
 
+# Topics Covered
 
-<!---
+This is an inexhaustive list of topics that we cover in this bootcamp:
 
-# Navigation Information
-
-This is the public-facing website for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content on [the GitHub page](https://github.com/DS-Without-Tears).
-
-For the activities and assessments, we may ask you to submit work by uploading them to a GitHub repository. You'll need to create this repository as a part of the [DS-Without-Tears](https://github.com/DS-Without-Tears) organization. Please see the file CreatingGitHubRepos.md in [this repository](https://github.com/DS-Without-Tears/2021-Winter-Content) for a description of this process (only successfully registerd participants will be able to open that link).
-
-OWL will be our main venue for disseminating information. We've set up TODO lists, assessment instructions, and bonus videos to explain some of the more difficult concepts. Once registered, you'll be added to the OWL site.
---->
+- The basics of data, including where it comes from, where you store it, and precautions about using it correctly.
+- The ethical considerations surrounding the collection and analysis of data.
+- Basic Python programming, including the numpy, pandas, matplotlib, and seaborn modules.
+- What "Big Data" means, and an introduction to how we deal with it.
+- A brief overview of the breadth of models that might be of interest to you.
+- A deeper look into linear regression, logistic regression, decision trees, neural networks, and natural language processing.
+- How to use GitHub as a version control system, as well as a tool to make collaboration easy.
 
