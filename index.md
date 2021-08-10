@@ -22,7 +22,7 @@ Are you ready to take your research to the next level with a better understandin
 
 # Registration
 
-The third session will run for six weeks and begins **September 20th**, 2021. There will be one synchronous component: "Coffee House Hours" on Thursdays from 2:30 to 3:30, where you can use that time as dedicated study time or ask the developers questions.
+The third session will run for six weeks and begins **September 20th**, 2021. There will be one synchronous component: "Coffee House Hours", where you can use that time as dedicated study time or ask the developers questions. 
 
 To register, sign up via the following form: [Register Here](https://forms.gle/gEE6L6XLtiQiBdKV9/)
 
