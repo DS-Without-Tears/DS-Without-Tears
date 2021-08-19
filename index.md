@@ -1,4 +1,6 @@
-# Welcome, colleagues!
+# Data Science Without Tears
+
+**Welcome, colleagues!**
 
 <img align="right" src="shampoobottle.png" width=225px>
 
