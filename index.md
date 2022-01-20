@@ -24,7 +24,7 @@ Are you ready to take your research to the next level with a better understandin
 
 # Registration
 
-The third session will run for six weeks and begins **September 20th**, 2021. There will be one synchronous component: "Coffee House Hours", where you can use that time as dedicated study time or ask the developers questions. 
+The boot camp will run for six weeks and begins **Febuary 7th**, 2022. There will be one synchronous component: "Coffee House Hours", where you can use that time as dedicated study time or ask the developers questions. 
 
 To register, sign up via the following form: [Register Here](https://forms.gle/gEE6L6XLtiQiBdKV9/)
 
@@ -34,16 +34,13 @@ Requests for further information should be sent to: [datasciencewithouttears@gma
 
 - Knowledge: Basic statistics (e.g. mean, sd, some knowledge of t-tests)
 - Software: A web browser (Chrome, Firefox, Edge, etc.)
-- A UWO account for OWL access
 - A Google account (e.g. Gmail) for Google Colab
-- A GitHub account (we will help you set this up)
-    - Most content will only be available through GitHub
+
 
 **Not required:**
 
 - Previous experience with programming languages or any particular software
 - Previous experience with GitHub
-- A Google account that is associated with any of your personal information
 - Any particular software (other than the web browser that you're using to view this page)
     - Installing Python is NOT required, all work can be done in Google Colab.
 
