@@ -1,4 +1,4 @@
-<img align="center" src="western_logo.png" width=325px>
+<img align="center" src="western_logo.png" width=425px>
 
 # Data Science Without Tears
 
