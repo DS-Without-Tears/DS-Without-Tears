@@ -37,23 +37,21 @@ Participants will:
 - recognize social and ethical implications of data science, including privacy concerns and potential biases, in a broad variety of contexts.
 work together with a broad community of interdisciplinary scholars to discuss data science.
 
-## Evaluation
 
-Upon successful completion of this boot camp, participants will be awarded a certificate. To earn this certificate, participants must complete a series of activities and challenges related to Data Science. There will be a range of activities covering data cleaning, modelling, visualization, ethics, etc., and participants will be free to choose the activities that are relevant to them. 
 
 ## Session Schedule
 
-1. **Introduction to Data Science and a Gentle Start to Python**
+1. **Introduction to Data Science **
     - A brief overview of what data science is and the models that it uses.
     - Examples of data science from real life.
-    - :snake: A basic introduction to python code (in the form of Jupyter Notebooks :books:).
+    
 2. **Data Principles and Practices: Processing, Cleaning, Visualizing**
     - Where does data come from? Where does data go? Where does data come from, Cotton Eye'd Joe?
     - The unglorious part of data science: checking for typos in your data :cold_sweat:.
     - :snake: A basic introduction to visualization using `Matplotlib` :bar_chart: and data cleaning using `pandas` :panda_face:.
-3. **Introduction to Statistics**
-    - Linear models are king :crown:.
-    - In order to make models, we need to make assumptions :game_die: (e.g. the Normal Distribution).
+3. **Linear Regression**
+    - Linear models are explained.
+    - Criteri for model selections are discussed.
     - :snake: A basic introduction to modelling with `sklearn` :microscope:.
 4. **Applied Statistical Concepts**
     - Using cross-validation to test how well your model predicts data that it didn't know about :crystal_ball:.
