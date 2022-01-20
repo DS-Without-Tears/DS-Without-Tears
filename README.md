@@ -53,23 +53,17 @@ work together with a broad community of interdisciplinary scholars to discuss da
     - Linear models are explained.
     - Criteri for model selections are discussed.
     - :snake: A basic introduction to modelling with `sklearn` :microscope:.
-4. **Applied Statistical Concepts**
-    - Using cross-validation to test how well your model predicts data that it didn't know about :crystal_ball:.
-    - Transforming your data so your computer can learn more about it :crown:.
-    - :snake: More python example code.
-5. **Introduction to Machine Learning and Artificial Intelligence**
-    - Linear models are still king :crown: (but now they're called logistic regression).
-    - Neural networks are just a bunch of logistic regressions :crown:.
-    - :snake: Examples of various machine learning algorithms in `sklearn`.
+4. **Machine Learning Algorithms**
+    - Logistic regression is explained
+    - Decision trees, random forests, and gradient decision trees are discussed. 
+    - :snake: More python example codes related to logistic regression applications.
+5. **More advanced Models**
+    - Neural networks are discussed :crown:.
+    - Natral language processing is explained.
+    - :snake: Example of neural networks with `Keras`.
 6. **Worked Examples, Conclusions, and Further Steps**
     - Data analyses the whole way through :crown:.
-    - :snake: How to communicate the results of a model (especially with Jupyter Notebooks :books:).
-    - :mortar_board: The wisest people know that they know nothing: How to learn data science techniques that will be relevant to your research.
 
-# Navigation Information
 
-This is the public-facing repository for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content here on GitHub.
-
-For the activities and assessments, we may ask you to submit work by uploading them to a GitHub repository. You'll need to create this repository as a part of the DS-Without-Tears organization. Please see the file CreatingGitHubRepos.md for a description of this process.
 
 
