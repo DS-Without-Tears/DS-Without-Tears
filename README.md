@@ -1,7 +1,8 @@
 # Data Science Without Tears
 
-<img align="left" src="western_logo.png" width=225px>
+<img align="center" src="western_logo.png" width=225px>
 
+<img align="right" src="shampoobottle.png" width=225px>
 
 The new year brings new opportunities for learning and professional development.
  
@@ -72,5 +73,4 @@ This is the public-facing repository for this bootcamp. Once you've registered f
 
 For the activities and assessments, we may ask you to submit work by uploading them to a GitHub repository. You'll need to create this repository as a part of the DS-Without-Tears organization. Please see the file CreatingGitHubRepos.md for a description of this process.
 
-<img align="center" src="shampoobottle.png" width=225px>
 
