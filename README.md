@@ -2,7 +2,6 @@
 
 <img align="left" src="western_logo.png" width=225px>
 
-<img align="right" src="shampoobottle.png" width=225px>
 
 The new year brings new opportunities for learning and professional development.
  
@@ -72,3 +71,6 @@ Upon successful completion of this boot camp, participants will be awarded a cer
 This is the public-facing repository for this bootcamp. Once you've registered for the boocamps (and a GitHub account), you'll be able to see (most of) the content here on GitHub.
 
 For the activities and assessments, we may ask you to submit work by uploading them to a GitHub repository. You'll need to create this repository as a part of the DS-Without-Tears organization. Please see the file CreatingGitHubRepos.md for a description of this process.
+
+<img align="center" src="shampoobottle.png" width=225px>
+
