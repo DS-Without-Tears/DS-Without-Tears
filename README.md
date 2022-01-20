@@ -1,6 +1,6 @@
 # Data Science Without Tears
 
-<img align="right" src="western_logo.png" width=225px>
+<img align="left" src="western_logo.png" width=225px>
 
 <img align="right" src="shampoobottle.png" width=225px>
 
